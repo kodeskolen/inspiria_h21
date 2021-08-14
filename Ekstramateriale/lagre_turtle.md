@@ -60,12 +60,7 @@ turtle.getscreen().getcanvas().postscript(file="skilpaddekunst.eps")
 
 ### Ved å bruke internettkonverterere
 
-Det finnes en rekke nettsider som kan konvertere EPS-filer til PNG-filer. De er ofte gratis å bruke for noen bilder om dagen (f.eks. 25), også kan man få mulighet til å konvertere flere bilder ved å betale en liten sum. Her er noen slike nettsider:
-
- * https://cloudconvert.com/ps-to-png
- * https://psviewer.org/convertpstopng.aspx
- * https://www.aconvert.com/image/ps-to-png/
- * https://www.docspal.com/convert/ps-to-png
+Det finnes flere nettsider som kan konvertere EPS-filer til PNG-filer. De er ofte gratis å bruke for noen bilder om dagen (f.eks. 25), også kan man få mulighet til å konvertere flere bilder ved å betale en liten sum. Et eksempel på en slik nettside er [CloudConvert](https://cloudconvert.com/ps-to-png) (https://cloudconvert.com/ps-to-png).
 
 
 ### Ved å bruke GhostScript gjennom IrfanView
