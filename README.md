@@ -19,5 +19,4 @@ Kompendiet for kurset finner du her. Dette kompendiet er laget for kurset STKD67
 
 ## Ekstra materiale
  * [Her](Ekstramateriale/lagre_turtle.md) finner du en liten guide for hvordan lagre Turtle-bildene vi lager som PNG
- * [Her](Ekstramateriale/lagre_trinket.md) finner du en guide for hvordan du lagrer Turtle-bilder fra Trinket som PNG.
- * [Her](Ekstramateriale/microbit_csv.md) finner du en liten guide for å lagre måledata fra en Micro:bit som en CSV-fil og å plotte det med matplotlib.
+ * [Her](Ekstramateriale/lagre_trinket.md) finner du en guide for hvordan du lagrer Turtle-bilder fra Trinket som PNG
