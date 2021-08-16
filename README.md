@@ -20,3 +20,4 @@ Kompendiet for kurset finner du her. Dette kompendiet er laget for kurset STKD67
 ## Ekstra materiale
  * [Her](Ekstramateriale/lagre_turtle.md) finner du en liten guide for hvordan lagre Turtle-bildene vi lager som PNG
  * [Her](https://marieroald.github.io/trinket_til_png/) finner du en guide for hvordan du lagrer Turtle-bilder fra Trinket som PNG
+ * [Her](https://www.google.com/search?q=color+picker) er en lenke til Google sin fargeutforsker
