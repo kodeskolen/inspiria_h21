@@ -17,9 +17,12 @@ Kompendiet for kurset finner du her. Dette kompendiet er laget for kurset STKD67
  * Oppgaver og bonusoppgaver for dag 2 finner du [her](Dag2/oppgaver.pdf) og [bonusoppgaver](Dag2/bonusoppgaver.pdf).
  * Vi legger til materiale løpende, ettersom kurset holdes, og vi kommer også til å legge ut løsningsforslag for alle oppgavene til slutt.
 
-## Ekstra materiale
+## Ekstramateriale
+### Dag 1
  * [Her](Ekstramateriale/lagre_turtle.md) finner du en liten guide for hvordan lagre Turtle-bildene vi lager som PNG
  * [Her](https://marieroald.github.io/trinket_til_png/) finner du en guide for hvordan du lagrer Turtle-bilder fra Trinket som PNG
  * [Her](https://www.google.com/search?q=color+picker) er en lenke til Google sin fargeutforsker
+
+### Dag 2
  * [Her](https://turtlethread.com/) finner du dokumentasjonen til `turtlethread`, et bibliotek som gjør det mulig å styre en broderimaskin med skilpaddeprogrammering i Python
  * [Her](https://github.com/EmbroidePy/pyembroidery) er `pyembroidery`, et (litt teknisk) bibliotek for å lage broderifiler i Python.
