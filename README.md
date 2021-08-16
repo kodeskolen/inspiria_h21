@@ -26,3 +26,4 @@ Kompendiet for kurset finner du her. Dette kompendiet er laget for kurset STKD67
 ### Dag 2
  * [Her](https://turtlethread.com/) finner du dokumentasjonen til `turtlethread`, et bibliotek som gjør det mulig å styre en broderimaskin med skilpaddeprogrammering i Python
  * [Her](https://github.com/EmbroidePy/pyembroidery) er `pyembroidery`, et (litt teknisk) bibliotek for å lage broderifiler i Python.
+ * [Her](Ekstramateriale/fraktalt_tre.py) er eksempelkode for å tegne et fraktalt tre i Python
