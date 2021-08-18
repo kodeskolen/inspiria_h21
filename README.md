@@ -19,10 +19,10 @@ Kompendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er laget
 
 ## Ekstramateriale
 ### Dag 1
+ * [Her](https://docs.python.org/3/library/turtle.html) er en lenke til Turtle dokumentasjonen
  * [Her](Ekstramateriale/lagre_turtle.md) finner du en liten guide for hvordan lagre Turtle-bildene vi lager som PNG
  * [Her](https://marieroald.github.io/trinket_til_png/) finner du en guide for hvordan du lagrer Turtle-bilder fra Trinket som PNG
  * [Her](https://www.google.com/search?q=color+picker) er en lenke til Google sin fargeutforsker
- * [Her](https://docs.python.org/3/library/turtle.html) er en lenke til Turtle dokumentasjonen
 
 ### Dag 2
  * [Her](http://turtlethread.com/) finner du dokumentasjonen til `turtlethread`, et bibliotek som gjør det mulig å styre en broderimaskin med skilpaddeprogrammering i Python
