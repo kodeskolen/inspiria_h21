@@ -18,6 +18,15 @@ Kompendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er laget
  * Oppgaver og bonusoppgaver for dag 2 finner du [her](Dag2/oppgaver.pdf) og [bonusoppgaver](Dag2/bonusoppgaver.pdf).
  * Vi legger til materiale løpende, ettersom kurset holdes, og vi kommer også til å legge ut løsningsforslag for alle oppgavene til slutt.
 
+## Kodesnutt for dag 2
+
+Her er en kodesnutt som er nyttig for live-kodingen på dag 2
+
+```python
+mnd = ["januar", "februar", "mars", "april", "mai", "juni", "juli", "august", "september", "oktober", "november", "desember"]
+tmp = [-10, -5.5, 0.3, 4.4, 10.4, 12.8, 16.2, 15.3, 10.1, 8.7, 4.2, -1.3]
+```
+
 ## Ekstramateriale
 ### Dag 1
  * [Her](https://docs.python.org/3/library/turtle.html) er en lenke til Turtle dokumentasjonen
