@@ -16,7 +16,7 @@ Kompendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er laget
  * Oppgaver for dag 1 finner du [her](Dag1/oppgaver.pdf) – og hvis du blir fort ferdig med disse, er det også lagt ut noen [bonusoppgaver](Dag1/bonusoppgaver.pdf) du kan prøve deg på videre. 
  * Kode fra dag 1 finner du [her](Dag1/live_koding/).
  * Oppgaver og bonusoppgaver for dag 2 finner du [her](Dag2/oppgaver.pdf) og [bonusoppgaver](Dag2/bonusoppgaver.pdf).
- * Vi legger til materiale løpende, ettersom kurset holdes, og vi kommer også til å legge ut løsningsforslag for alle oppgavene til slutt.
+ * Kode fra dag 2 finner du [her](Dag1/live_koding/).
 
 ## Kodesnutt for dag 2
 
