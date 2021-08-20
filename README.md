@@ -14,8 +14,10 @@ I løpet av kurset vil vi gi en kort innføring i hvordan man kan bruke det teks
 Kompendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er laget for kurset STKD6700 Introduction to Programming I, og dekker dermed alt vi går igjennom i dette kurset og litt mer. Kompendiet er altså en fin ressurs både for å slå opp temaer vi går igjennom i dette kurset og for å lære mer programmering på egenhånd.
 
  * Oppgaver for dag 1 finner du [her](Dag1/oppgaver.pdf) – og hvis du blir fort ferdig med disse, er det også lagt ut noen [bonusoppgaver](Dag1/bonusoppgaver.pdf) du kan prøve deg på videre. 
+ * Fasit for dag 1 finner du [her](Dag1/oppgaver_fasit.pdf) og fasit for bonusoppgavene finner du [her](Dag1/bonusoppgaver_fasit.pdf).
  * Kode fra dag 1 finner du [her](Dag1/live_koding/).
  * Oppgaver og bonusoppgaver for dag 2 finner du [her](Dag2/oppgaver.pdf) og [bonusoppgaver](Dag2/bonusoppgaver.pdf).
+ * Fasit for dag 2 finner du [her](Dag2/oppgaver_fasit.pdf) og fasit for bonusoppgavene finner du [her](Dag2/bonusoppgaver_fasit.pdf).
  * Vi legger til materiale løpende, ettersom kurset holdes, og vi kommer også til å legge ut løsningsforslag for alle oppgavene til slutt.
 
 ## Kodesnutt for dag 2
